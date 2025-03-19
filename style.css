@@ -1,0 +1,30 @@
+body {
+    background-color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px;
+}
+
+#pbold {
+    font-weight:bold;
+}
+
+.titulo_um{
+    color:blue
+}
+
+#ordened_list{
+    color: aqua;
+}
+
+.mybutton {
+    width: 80px;
+    height: 80px;
+    border-radius:10px ;
+    color:aqua;
+    border-color:aliceblue;
+    border-width: 15px;
+    border-style: dotted;
+    background-image:url(https://www.google.com/imgres?q=gato%20em%20uma%20moto&imgurl=https%3A%2F%2Fclassic.exame.com%2Fwp-content%2Fuploads%2F2018%2F01%2Fchiquinho.jpg&imgrefurl=https%3A%2F%2Fexame.com%2Fcasual%2Fchiquinho-o-gato-motoqueiro-da-rocinha-que-viralizou%2F&docid=zjhwiIkK45TVLM&tbnid=_StTC9Xr3pukUM&vet=1&w=690&h=460&hcb=2&ved=2ahUKEwjM5tjVnoqMAxWZDrkGHe-oBnwQ9AF6BAgVEAA);
+    background-repeat: repeat-y;
+
+}
